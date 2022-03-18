@@ -3,7 +3,8 @@
 
 ### PERSONAL PROFILE
 
-<p><img src="surferdude.png" alt="Surfer Dude" /></p>
+![Surfer Dude](../gh_pages/surferdude.png)
+
 
 Having worked in a range of roles within international companies, I am an extremely flexible and versatile person who can work either independently or as part of a team. I have the ability to learn new skills quickly. I am able to work well under pressure and can maintain good decision making skills.
 
