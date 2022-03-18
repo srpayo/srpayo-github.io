@@ -1,6 +1,5 @@
 # HI, IM CARLES
-## I'm a DEVOPS Engineer
-### ...and a wannabe surfer in my spare time
+## I'm a DEVOPS Engineer (...and a wannabe surfer in my spare time)
 
 
 ### PERSONAL PROFILE
