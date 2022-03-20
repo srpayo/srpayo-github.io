@@ -1,7 +1,8 @@
 # HI, IM CARLES
 ## I'm a DEVOPS Engineer 
 
-![vcard](vcard.jpg)
+
+![banner](banner.gif) ![vcard](vcard.jpg)
 
 
 ### PERSONAL PROFILE
