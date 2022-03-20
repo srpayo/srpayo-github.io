@@ -1,16 +1,17 @@
 # HI, IM CARLES
-## I'm a DEVOPS Engineer
+## I'm a DEVOPS Engineer ![vcard](vcard.jpg)
 
 
 ### PERSONAL PROFILE
-![vcard](vcard.jpg)
+
 
 
 Having worked in a range of roles within international companies, I am an extremely flexible and versatile person who can work either independently or as part of a team. I have the ability to learn new skills quickly. I am able to work well under pressure and can maintain good decision making skills.
 
 ### KEY SKILLS 
 
-```Hosting administration, Linux server administration (Redhat, CentOS, Ubuntu, Debian etc), Solaris, Windows Server 2003, 2008 and 2012, TCP/IP Networking, SSL certificates, Vmware, AWS and Kubernetes, Firewall administration (Cisco, CheckPoint, Juniper, pfSense), Storage (NetApp), Load Balancers (Citrix NetScaler, F5, HAProxy), Terraform, Terragrunt, Proxmox, Ceph.
+```
+Hosting administration, Linux server administration (Redhat, CentOS, Ubuntu, Debian etc), Solaris, Windows Server 2003, 2008 and 2012, TCP/IP Networking, SSL certificates, Vmware, AWS and Kubernetes, Firewall administration (Cisco, CheckPoint, Juniper, pfSense), Storage (NetApp), Load Balancers (Citrix NetScaler, F5, HAProxy), Terraform, Terragrunt, Proxmox, Ceph.
 
 Monitoring Tools: SolarWinds, ScienceLogic EM7, Nagios, Cacti, Icinga, ELK Stack: Grafana and Kibana, Spectrum, Dynatrace, Prometheus, Lens.
 
@@ -42,7 +43,6 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 
 - 12/2016 – 08/2021, Video Systems Engineer at Liberty Global
-
 ```Duties:```
 As part of the Pan-European Video Support team within the CNO organization, my role was to provide advanced support on the Video solutions of the company such as SetTopBoxes, OTT applications (ios, android, windows) and web apps of all the affiliates on a Pan European and Latin American level. Working with a variety of tools and platforms my position allowed me to provide End to End support for all platforms from systems-level to application-level by using multiple technologies and also doing pro-active monitoring and maintenance by using scripts and API tools.
 
@@ -58,7 +58,6 @@ Creating Documentation for the teams and providing training to different teams a
 
 
 - 03/2012 – 10/2016, Senior Technical Support Engineer at Alternative Networks Plc
-
 ```Duties:```
 Working in the Technical Operations – Customer Operations Department I provide support dedicated to maintaining service within agreed service levels to Alternative Networks customers 24x7, 365 days per year as part of the Shift Team. I've gained considerable experience working with various troubleshooting and performance tools and proven methodology to identify root causes.
 
@@ -85,7 +84,6 @@ Security Patching (using Kaseya and Lumension Patchlink)
 
 
 - 06/2009 – 02/2012, Dedicated Server Engineer at UK2.NET
- 
 ```Duties:```
 Working in a Datacenter in London, dealing with a broad range of ISP issues, including setting up / giving support for dedicated servers and VPSs (both Virtuozzo and Xen Cloud platforms) mainly linux servers but also Windows 2003 and 2008 servers as well as VMware 4.1 cloud platform. 
 Configuring VPS and licensing / installing control panels (cPanel, Webmin, ISP Manager, Plesk), setting up Firewalls (Cisco PIX, CSF, Pfsense, iptables) ssh troubleshooting. Postfix and Exim mailserver troubleshooting.
@@ -102,7 +100,6 @@ Cisco switches and router commands
 
 
 - 08/2006 – 02/2009, 2nd line Technical Support Technician at HOSTWAY UK, London, United Kingdom
- 
 ```Duties:```
 Working with a broad range of ISP requests from FTP and email client configuration to DNS issues, zonefile management and server-side requirements.
 Windows 2000/2003 Server management, IIS 5 and 6 configuration, Virtual Directories and Applications setup in IIS, FTP configuration, script debugging (html, ASP.NET) and MSSQL database restores and backups, Urchin statistics configuration and management.
