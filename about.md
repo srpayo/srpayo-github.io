@@ -1,9 +1,9 @@
 # HI, IM CARLES
-## I'm a DEVOPS Engineer (...and a wannabe surfer in my spare time)
+## I'm a DEVOPS Engineer
 
 
 ### PERSONAL PROFILE
-
+![vcard](vcard.jpg)
 
 
 Having worked in a range of roles within international companies, I am an extremely flexible and versatile person who can work either independently or as part of a team. I have the ability to learn new skills quickly. I am able to work well under pressure and can maintain good decision making skills.
