@@ -9,9 +9,14 @@ Having worked in a range of roles within international companies, I am an extrem
 
 ### KEY SKILLS 
 ```
-Hosting administration, Linux server administration (Redhat, CentOS, Ubuntu, Debian etc), Solaris, Windows Server 2003, 2008 and 2012, TCP/IP Networking, SSL certificates, Vmware, AWS and Kubernetes, Firewall administration (Cisco, CheckPoint, Juniper, pfSense), Storage (NetApp), Load Balancers (Citrix NetScaler, F5, HAProxy), Terraform, Terragrunt, Proxmox, Ceph.
+Hosting administration, Linux server administration (Redhat, CentOS, Ubuntu, Debian etc), Solaris, 
+Windows Server 2003, 2008 and 2012, TCP/IP Networking, SSL certificates, Vmware, AWS and Kubernetes, 
+Firewall administration (Cisco, CheckPoint, Juniper, pfSense), Storage (NetApp), 
+Load Balancers (Citrix NetScaler, F5, HAProxy), 
+Terraform, Terragrunt, Proxmox, Ceph.
 
-Monitoring Tools: SolarWinds, ScienceLogic EM7, Nagios, Cacti, Icinga, ELK Stack: Grafana and Kibana, Spectrum, Dynatrace, Prometheus, Lens.
+Monitoring Tools: SolarWinds, ScienceLogic EM7, Nagios, Cacti, Icinga, ELK Stack: Grafana and Kibana, 
+Spectrum, Dynatrace, Prometheus, Lens.
 
 CI/CD: Bitbucket, GitHub, GitLab, Jenkins, Ansible, Jira
 API: Swagger, Postman
