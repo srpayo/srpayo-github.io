@@ -1,14 +1,12 @@
 # HI, IM CARLES
 ## I'm a DEVOPS Engineer 
-                                                                                                            ![vcard](vcard.jpg)
+![vcard](vcard.jpg)
 
 
 ### PERSONAL PROFILE
-
 Having worked in a range of roles within international companies, I am an extremely flexible and versatile person who can work either independently or as part of a team. I have the ability to learn new skills quickly. I am able to work well under pressure and can maintain good decision making skills.
 
 ### KEY SKILLS 
-
 ```
 Hosting administration, Linux server administration (Redhat, CentOS, Ubuntu, Debian etc), Solaris, Windows Server 2003, 2008 and 2012, TCP/IP Networking, SSL certificates, Vmware, AWS and Kubernetes, Firewall administration (Cisco, CheckPoint, Juniper, pfSense), Storage (NetApp), Load Balancers (Citrix NetScaler, F5, HAProxy), Terraform, Terragrunt, Proxmox, Ceph.
 
@@ -19,15 +17,13 @@ API: Swagger, Postman
 Scripting: Bash shell and operational-level Python
 Debugging tools: Charles Log Proxy, MitmProxy, Web Developer Tools
 Patching and Security Hardening (Kaseya, Lumension Patchlink, iptables)
-```
-
 
 Translation and Interpretation skills
 Native speaker of Spanish and Catalan
 Fluent in English (university degree in English Studies) and 10+ years living in the UK
+```
 
 ### EDUCATION
-
 Bachelor's Degree in English Studies at Universitat Rovira i Virgili, Tarragona, Spain.
 Red Hat RHCE Course at Bickenhall College in Baker Street, London
 VMware VCP5 Course at Magirus IT Training, London
@@ -37,7 +33,6 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 
 ### EMPLOYMENT RECORD
-
 - 08/2021 - current, Linux Infrastructure Engineer at Textkernel B.V.
 
 
@@ -110,7 +105,6 @@ Windows server management for dedicated customers in a SLA contract.
 
 
 ### ADDITIONAL INFORMATION
-
 Interests:                 Technology, guitar and bass guitar, vegan food, travelling, art, surfing. 
                            Currently learning Kubernetes and Terraform.
 
