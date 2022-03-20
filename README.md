@@ -2,7 +2,7 @@
 ## I'm a DEVOPS Engineer 
 
 
-![banner](banner.gif)
+![banner](devops-banner.jpg)
 
 
 ### PERSONAL PROFILE
@@ -124,4 +124,5 @@ Driving Licence:           Full European Driving license.
 ![Surfer Dude](surferdude.png)
 
 ### REFERENCES (provided upon request)
+
 ![vcard](vcard.jpg)
