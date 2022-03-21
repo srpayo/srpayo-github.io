@@ -88,12 +88,10 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
     Hands-on experience with network and (distributed) storage technology (e.g. VLANs, RSTP, DNS, Ceph, LVM, NVMe,10/25gbe)
 
 
-### EMPLOYMENT RECORD
+### PAST EMPLOYMENT RECORD
 - 12/2016 – 08/2021, Video Systems Engineer at Liberty Global \
     Amsterdam - The Netherlands \
-    ![netherlands-48](https://user-images.githubusercontent.com/567380/159275905-49b0e866-b015-4cd7-bd15-8a14e085de59.png)
-
-<details>
+    ![netherlands-48](https://user-images.githubusercontent.com/567380/159275905-49b0e866-b015-4cd7-bd15-8a14e085de59.png) <details>
   <summary>Click to expand
   !</summary>
   <blockquote>
