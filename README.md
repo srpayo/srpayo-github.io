@@ -25,7 +25,7 @@
 
 <p align=”center”>
 
-<img width=”200" height=”200" src=devops-banner.jpg alt=”my banner”>
+<img width=”200" height=”200" src="https://github.com/srpayo/srpayo.github.io/blob/main/devops-banner.jpg?raw=true" alt=”my banner”>
 
 </p>
 
