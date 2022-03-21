@@ -1,8 +1,13 @@
-#  ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/567380?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) HI, IM CARLES
+#  ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/567380?v=4&h=40&w=40&fit=cover&mask=circle&maxage=7d) HI, IM CARLES
 ## I'm a DEVOPS Engineer
 
 ![banner](devops-banner.jpg)
 
+
+### PERSONAL PROFILE
+Having worked in a range of roles within international companies, I am an extremely flexible and versatile person who can work either independently or as part of a team. I have the ability to learn new skills quickly. I am able to work well under pressure and can maintain good decision making skills.
+
+### KEY SKILLS 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -27,12 +32,6 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-### PERSONAL PROFILE
-Having worked in a range of roles within international companies, I am an extremely flexible and versatile person who can work either independently or as part of a team. I have the ability to learn new skills quickly. I am able to work well under pressure and can maintain good decision making skills.
-
-### KEY SKILLS 
 ```
 Hosting administration, Linux server administration (Redhat, CentOS, Ubuntu, Debian etc), Solaris, 
 Windows Server 2003, 2008 and 2012, TCP/IP Networking, SSL certificates, Vmware, AWS and Kubernetes, 
