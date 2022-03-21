@@ -63,7 +63,8 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 
 ### LATEST EMPLOYMENT
-- 08/2021 - current, Senior Linux Infrastructure Engineer at Textkernel B.V., Amsterdam - The Netherlands <a href="https://www.flaticon.com/free-icons/netherlands" title="netherlands icons">Netherlands flag</a>
+- 08/2021 - current, Senior Linux Infrastructure Engineer at Textkernel B.V., Amsterdam - The Netherlands ![netherlands](https://user-images.githubusercontent.com/567380/159271605-39749b55-39af-41a7-8594-a04ed0e4d30e.png)
+
 
 ```Duties:``` \
     Achieve >99.99% uptime \
