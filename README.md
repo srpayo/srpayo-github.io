@@ -155,4 +155,4 @@ Driving Licence:           Full European Driving license.
 ### REFERENCES (provided upon request)
 
 ### CONTACT ME:
-![vcard](vcard.jpg)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=srpayo)](https://github.com/srpayo) ![vcard](vcard.jpg)
