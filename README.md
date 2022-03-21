@@ -107,10 +107,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 - 03/2012 – 10/2016, Senior Technical Support Engineer at Alternative Networks Plc \
     London - United Kingdom \
-    ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276136-c501abc0-a17b-4b6e-b46b-4f51a2f374c5.png)
-
-<details>
-  <summary>Click to expand!</summary>
+    ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276136-c501abc0-a17b-4b6e-b46b-4f51a2f374c5.png) <details>
     
   `Duties:`
   Working in the Technical Operations – Customer Operations Department I provide support dedicated to maintaining service within agreed service levels to Alternative Networks customers 24x7, 365 days per year as part of the Shift Team. I've gained considerable experience working with various troubleshooting and performance tools and proven methodology to identify root causes.
@@ -135,10 +132,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 - 06/2009 – 02/2012, Dedicated Server Engineer at UK2.NET \
     London - United Kingdom \
-    ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276329-f97aff36-044c-4fa1-b5cd-3dd8c8244797.png)
-
-<details>
-  <summary>Click to expand!</summary>
+    ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276329-f97aff36-044c-4fa1-b5cd-3dd8c8244797.png)<details>
 
   `Duties:`
   Working in a Datacenter in London, dealing with a broad range of ISP issues, including setting up / giving support for dedicated servers and VPSs (both Virtuozzo and Xen Cloud platforms) mainly linux servers but also Windows 2003 and 2008 servers as well as VMware 4.1 cloud platform. 
@@ -157,10 +151,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
  - 08/2006 – 02/2009, 2nd line Technical Support Technician at HOSTWAY UK \
     London, United Kingdom \
-    ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276363-27b56190-63b4-4e26-a0eb-79678593878e.png)
-<details>
-  <summary>Click to expand!</summary>
-
+    ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276363-27b56190-63b4-4e26-a0eb-79678593878e.png)<details>
     
   `Duties:`
   Working with a broad range of ISP requests from FTP and email client configuration to DNS issues, zonefile management and server-side requirements.
