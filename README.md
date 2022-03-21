@@ -73,7 +73,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
     Keep a close eye on platform health and take actionas needed \
     Participate in on-call rotation schedule via Pagerduty \
     Watch over documentation and clean-up \
-    Configure and improve the company's SaaS environment based on business and security needs \
+    Configure and improve the company's SaaS environment based on business and security needs
 
 
 ```Skills gained:``` \
@@ -82,7 +82,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
     AWS Cloud design and configuration with Terraform and Terragrunt \
     Proxmox and KVM virtualization configuration and support \
     Zabbix and Grafana monitoring \
-    Hands-on experience with network and (distributed) storage technology (e.g. VLANs, RSTP, DNS, Ceph, LVM, NVMe,10/25gbe) \
+    Hands-on experience with network and (distributed) storage technology (e.g. VLANs, RSTP, DNS, Ceph, LVM, NVMe,10/25gbe)
 
 
 ### EMPLOYMENT RECORD
@@ -159,7 +159,6 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   Windows Server 2000/2003 administration, MSSQL Administration, Linux admin, Mac support, SQL database, Exchange and Sharepoint, SSL certificates
   Windows server management for dedicated customers in a SLA contract.
 </details>
-\
 
 
 ### ADDITIONAL INFORMATION
@@ -176,10 +175,11 @@ Driving Licence:           Full European Driving license.
 
 
 
-### CONTACT ME \
+### CONTACT ME
 <a href="https://www.linkedin.com/in/carlesconstanti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Carles Constanti | LinkedIn" width="21px"/></a>
 
  <a href="https://instagram.com/srpayo"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Carles Constanti | Instagram" width="21px"/></a>
-\
+
+
 ![vcard](vcard.jpg)
 
