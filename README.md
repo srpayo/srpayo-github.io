@@ -63,7 +63,8 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 
 ### LATEST EMPLOYMENT
-- 08/2021 - current, Senior Linux Infrastructure Engineer at Textkernel B.V., Amsterdam - The Netherlands
+- 08/2021 - current, Senior Linux Infrastructure Engineer at Textkernel B.V., Amsterdam - The Netherlands ![netherlands-48](https://user-images.githubusercontent.com/567380/159275409-433cee3c-b6a6-4d6a-aec5-792146a67a91.png)
+
 
 
 ```Duties:``` \
@@ -87,8 +88,9 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 
 ### EMPLOYMENT RECORD
-- 12/2016 – 08/2021, Video Systems Engineer at Liberty Global, Amsterdam - The Netherlands
+- 12/2016 – 08/2021, Video Systems Engineer at Liberty Global, Amsterdam - The Netherlands ![netherlands-48](https://user-images.githubusercontent.com/567380/159275905-49b0e866-b015-4cd7-bd15-8a14e085de59.png)
 <details>
+
   <summary>Click to expand!</summary>
   
   `Duties:`
@@ -104,7 +106,8 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 
 
-- 03/2012 – 10/2016, Senior Technical Support Engineer at Alternative Networks Plc, London - United Kingdom
+- 03/2012 – 10/2016, Senior Technical Support Engineer at Alternative Networks Plc, London - United Kingdom ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276136-c501abc0-a17b-4b6e-b46b-4f51a2f374c5.png)
+
 <details>
   <summary>Click to expand!</summary>
     
@@ -129,7 +132,8 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   Security Patching (using Kaseya and Lumension Patchlink)
 </details>
 
-- 06/2009 – 02/2012, Dedicated Server Engineer at UK2.NET, London - United Kingdom
+- 06/2009 – 02/2012, Dedicated Server Engineer at UK2.NET, London - United Kingdom ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276329-f97aff36-044c-4fa1-b5cd-3dd8c8244797.png)
+
 <details>
   <summary>Click to expand!</summary>
 
@@ -148,9 +152,10 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   Cisco switches and router commands
 </details>
 
- - 08/2006 – 02/2009, 2nd line Technical Support Technician at HOSTWAY UK, London, United Kingdom
+ - 08/2006 – 02/2009, 2nd line Technical Support Technician at HOSTWAY UK, London, United Kingdom ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276363-27b56190-63b4-4e26-a0eb-79678593878e.png)
 <details>
   <summary>Click to expand!</summary>
+
     
   `Duties:`
   Working with a broad range of ISP requests from FTP and email client configuration to DNS issues, zonefile management and server-side requirements.
