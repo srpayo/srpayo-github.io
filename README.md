@@ -182,7 +182,7 @@ Interests:                 Technology, guitar and bass guitar, plant-based food,
 
 Driving Licence:           Full European.
 
-IT Blogs:                  ChromeOS <a href="https://chromeos-su.blogspot.com/2020/06/music-from-terminal-and-eq-visualizer.html">< src="https://4.bp.blogspot.com/-yZ0XnqkboQk/Xsuv43oj28I/AAAAAAAAF-U/7nelPf8mgA87QyXAHWA_yK5gP9S1iAmVACK4BGAYYCw/s120-pf/newchrome-700x400.jpeg" alt="Carles Constanti | ChromeOS" width="21px"/></a>
+IT Blogs:                  [ChromeOS](https://chromeos-su.blogspot.com/2020/06/music-from-terminal-and-eq-visualizer.html)
 
 ![Surfer Dude](surferdude.png)
 
