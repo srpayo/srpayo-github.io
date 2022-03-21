@@ -66,23 +66,23 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 - 08/2021 - current, Senior Linux Infrastructure Engineer at Textkernel B.V., Amsterdam - The Netherlands
 ```Duties:```
-● Achieve >99.99% uptime
-● Manage and expand the physical servers, OS's and networksin multiple datacenters
-● Support >1200 VMs
-● Operate a complex technical architecture with a high degree of customization
-● Keep a close eye on platform health and take actionas needed
-● Participate in on-call rotation schedule via Pagerduty
-● Watch over documentation and clean-up
-● Configure and improve the company's SaaS environment based on business and security needs
+  Achieve >99.99% uptime
+  Manage and expand the physical servers, OS's and networksin multiple datacenters
+  Support >1200 VMs
+  Operate a complex technical architecture with a high degree of customization
+  Keep a close eye on platform health and take actionas needed
+  Participate in on-call rotation schedule via Pagerduty
+  Watch over documentation and clean-up
+  Configure and improve the company's SaaS environment based on business and security needs
 
 
 ```Skills gained:```
-Configuration Management with Ansible and Gitlab CI
-Kubernetes on-prem and in-cloud
-AWS Cloud design and configuration with Terraform and Terragrunt
-Proxmox and KVM virtualization configuration and support
-Zabbix and Grafana monitoring
-
+  Configuration Management with Ansible and Gitlab CI,
+  Kubernetes on-prem and in-cloud,
+  AWS Cloud design and configuration with Terraform and Terragrunt,
+  Proxmox and KVM virtualization configuration and support,
+  Zabbix and Grafana monitoring,
+  Hands-on experience with network and (distributed) storage technology (e.g. VLANs, RSTP, DNS, Ceph, LVM, NVMe,10/25gbe)
 
 
 ### EMPLOYMENT RECORD
