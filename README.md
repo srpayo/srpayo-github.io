@@ -182,7 +182,7 @@ Interests:                 Technology, guitar and bass guitar, plant-based food,
 
 Driving Licence:           Full European.
 
-IT Blogs:                  [ChromeOS](https://chromeos-su.blogspot.com/2020/06/music-from-terminal-and-eq-visualizer.html)
+IT Blogs:                  [ChromeOS](https://www.linkedin.com/pulse/chromeos-music-from-terminal-tizonia-eq-visualizer-constanti-vazquez/?trackingId=fj5qJ7%2BiQL6gzy6Y%2BQKPqA%3D%3D)
 
 ![Surfer Dude](surferdude.png)
 
