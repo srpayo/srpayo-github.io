@@ -15,7 +15,7 @@ Having worked in a range of roles within international companies, I am an extrem
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
@@ -63,7 +63,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 
 ### LATEST EMPLOYMENT
-- 08/2021 - current, Senior Linux Infrastructure Engineer at Textkernel B.V., Amsterdam - The Netherlands ![netherlands](https://user-images.githubusercontent.com/567380/159271605-39749b55-39af-41a7-8594-a04ed0e4d30e.png?v=4&h=40&w=40)
+- 08/2021 - current, Senior Linux Infrastructure Engineer at Textkernel B.V., Amsterdam - The Netherlands ![image](https://user-images.githubusercontent.com/567380/159272356-702c7c7a-002e-457a-bdfe-27aa7b69d09a.png?v=4&h=20&w=20)
 
 
 ```Duties:``` \
