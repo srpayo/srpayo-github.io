@@ -1,5 +1,7 @@
-# HI, IM CARLES
+<h3 align=”center”>
+#  HI, IM CARLES
 ## I'm a DEVOPS Engineer 
+</3>
 
 ![banner](devops-banner.jpg)
 
@@ -155,4 +157,4 @@ Driving Licence:           Full European Driving license.
 ### REFERENCES (provided upon request)
 
 ### CONTACT ME:
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=srpayo)](https://github.com/srpayo) ![vcard](vcard.jpg)
+![vcard](vcard.jpg)
