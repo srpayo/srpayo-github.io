@@ -89,7 +89,9 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 
 ### PAST EMPLOYMENT RECORD
-
+<details>
+<summary>click to expand</summary>
+	
 - 12/2016 – 08/2021, Video Systems Engineer at Liberty Global \
     Amsterdam - The Netherlands \
     ![netherlands-48](https://user-images.githubusercontent.com/567380/159275905-49b0e866-b015-4cd7-bd15-8a14e085de59.png)
@@ -166,7 +168,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   `Skills gained:`
   Windows Server 2000/2003 administration, MSSQL Administration, Linux admin, Mac support, SQL database, Exchange and Sharepoint,     SSL certificates
   Windows server management for dedicated customers in a SLA contract
-
+</details>
 
 
 ### ADDITIONAL INFORMATION
