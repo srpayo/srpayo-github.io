@@ -61,28 +61,28 @@ AWS Sysops Course at Global Knowledge, Amsterdam
 Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terraform for beginners Course
 
 
-### LATEST EMPLOYMENT
 
+### LATEST EMPLOYMENT
 - 08/2021 - current, Senior Linux Infrastructure Engineer at Textkernel B.V., Amsterdam - The Netherlands
 
 ```Duties:```
-  > Achieve >99.99% uptime
-  > Manage and expand the physical servers, OS's and networks in multiple datacenters
-  > Support >1200 VMs
-  > Operate a complex technical architecture with a high degree of customization
-  > Keep a close eye on platform health and take actionas needed
-  > Participate in on-call rotation schedule via Pagerduty
-  > Watch over documentation and clean-up
-  > Configure and improve the company's SaaS environment based on business and security needs
+    Achieve >99.99% uptime
+    Manage and expand the physical servers, OS's and networks in multiple datacenters
+    Support >1200 VMs
+    Operate a complex technical architecture with a high degree of customization
+    Keep a close eye on platform health and take actionas needed
+    Participate in on-call rotation schedule via Pagerduty
+    Watch over documentation and clean-up
+    Configure and improve the company's SaaS environment based on business and security needs
 
 
 ```Skills gained:```
-  > Configuration Management with Ansible and Gitlab CI
-  > Kubernetes on-prem and in-cloud
-  > AWS Cloud design and configuration with Terraform and Terragrunt
-  > Proxmox and KVM virtualization configuration and support
-  > Zabbix and Grafana monitoring
-  > Hands-on experience with network and (distributed) storage technology (e.g. VLANs, RSTP, DNS, Ceph, LVM, NVMe,10/25gbe)
+    Configuration Management with Ansible and Gitlab CI
+    Kubernetes on-prem and in-cloud
+    AWS Cloud design and configuration with Terraform and Terragrunt
+    Proxmox and KVM virtualization configuration and support
+    Zabbix and Grafana monitoring
+    Hands-on experience with network and (distributed) storage technology (e.g. VLANs, RSTP, DNS, Ceph, LVM, NVMe,10/25gbe)
 
 
 ### EMPLOYMENT RECORD
@@ -103,7 +103,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 
 
-  2. 03/2012 – 10/2016, Senior Technical Support Engineer at Alternative Networks Plc, London - United Kingdom
+  1. 03/2012 – 10/2016, Senior Technical Support Engineer at Alternative Networks Plc, London - United Kingdom
 
   * Duties:
   Working in the Technical Operations – Customer Operations Department I provide support dedicated to maintaining service within agreed service levels to Alternative Networks customers 24x7, 365 days per year as part of the Shift Team. I've gained considerable experience working with various troubleshooting and performance tools and proven methodology to identify root causes.
@@ -126,7 +126,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   Security Patching (using Kaseya and Lumension Patchlink)
 
 
-  3. 06/2009 – 02/2012, Dedicated Server Engineer at UK2.NET, London - United Kingdom
+  1. 06/2009 – 02/2012, Dedicated Server Engineer at UK2.NET, London - United Kingdom
 
   * Duties:
   Working in a Datacenter in London, dealing with a broad range of ISP issues, including setting up / giving support for dedicated servers and VPSs (both Virtuozzo and Xen Cloud platforms) mainly linux servers but also Windows 2003 and 2008 servers as well as VMware 4.1 cloud platform. 
@@ -143,7 +143,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   Cisco switches and router commands
 
 
-  4. 08/2006 – 02/2009, 2nd line Technical Support Technician at HOSTWAY UK, London, United Kingdom
+  1. 08/2006 – 02/2009, 2nd line Technical Support Technician at HOSTWAY UK, London, United Kingdom
 
   * Duties:
   Working with a broad range of ISP requests from FTP and email client configuration to DNS issues, zonefile management and server-side requirements.
