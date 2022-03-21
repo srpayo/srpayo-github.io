@@ -92,7 +92,8 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 <details>
 - <summary> 12/2016 – 08/2021, Video Systems Engineer at Liberty Global 
     Amsterdam - The Netherlands </summary>
-    ![netherlands-48](https://user-images.githubusercontent.com/567380/159275905-49b0e866-b015-4cd7-bd15-8a14e085de59.png)
+
+	![netherlands-48](https://user-images.githubusercontent.com/567380/159275905-49b0e866-b015-4cd7-bd15-8a14e085de59.png)
 
 	<pre>
 
