@@ -155,9 +155,11 @@ Driving Licence:           Full European Driving license.
 ### REFERENCES (provided upon request)
 
 ### 🤝 CONTACT ME:
-
+![vcard](vcard.jpg)
+</br>
 <a href="https://www.linkedin.com/in/carlesconstanti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Carles Constanti | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/srpayo"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Carles Constanti | Instagram" width="21px"/></a>
+
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-![vcard](vcard.jpg)
+
