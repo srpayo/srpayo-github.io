@@ -4,7 +4,6 @@
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
-[![alt text][6.1]][2]
 
 
 <!-- links to social media icons -->
@@ -12,20 +11,17 @@
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/srpayo
-[2]: http://www.github.com/srpayo
+[1]: http://www.github.com/srpayo
 
 
 ![banner](devops-banner.jpg)
