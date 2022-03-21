@@ -90,7 +90,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 <details>
   <summary>Click to expand!</summary>
   
-  ## 12/2016 – 08/2021, Video Systems Engineer at Liberty Global, Amsterdam - The Netherlands
+  ### 12/2016 – 08/2021, Video Systems Engineer at Liberty Global, Amsterdam - The Netherlands
 
   * Duties:
   As part of the Pan-European Video Support team within the CNO organization, my role was to provide advanced support on the Video    solutions of the company such as SetTopBoxes, OTT applications (ios, android, windows) and web apps of all the affiliates on a Pan  European and Latin American level. Working with a variety of tools and platforms my position allowed me to provide End to End   support for all platforms from systems-level to application-level by using multiple technologies and also doing pro-active  monitoring and maintenance by using scripts and API tools.
@@ -104,7 +104,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 
 
-  ## 03/2012 – 10/2016, Senior Technical Support Engineer at Alternative Networks Plc, London - United Kingdom
+  ### 03/2012 – 10/2016, Senior Technical Support Engineer at Alternative Networks Plc, London - United Kingdom
 
   * Duties:
   Working in the Technical Operations – Customer Operations Department I provide support dedicated to maintaining service within agreed service levels to Alternative Networks customers 24x7, 365 days per year as part of the Shift Team. I've gained considerable experience working with various troubleshooting and performance tools and proven methodology to identify root causes.
@@ -129,7 +129,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   Security Patching (using Kaseya and Lumension Patchlink)
 
 
-  ## 06/2009 – 02/2012, Dedicated Server Engineer at UK2.NET, London - United Kingdom
+  ### 06/2009 – 02/2012, Dedicated Server Engineer at UK2.NET, London - United Kingdom
 
   * Duties:
   Working in a Datacenter in London, dealing with a broad range of ISP issues, including setting up / giving support for dedicated servers and VPSs (both Virtuozzo and Xen Cloud platforms) mainly linux servers but also Windows 2003 and 2008 servers as well as VMware 4.1 cloud platform. 
@@ -146,7 +146,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   Cisco switches and router commands
 
 
-  ## 08/2006 – 02/2009, 2nd line Technical Support Technician at HOSTWAY UK, London, United Kingdom
+  ### 08/2006 – 02/2009, 2nd line Technical Support Technician at HOSTWAY UK, London, United Kingdom
 
   * Duties:
   Working with a broad range of ISP requests from FTP and email client configuration to DNS issues, zonefile management and server-side requirements.
