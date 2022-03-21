@@ -1,7 +1,7 @@
-#  ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/567380?v=4&h=40&w=40&fit=cover&mask=circle&maxage=7d) HI, IM CARLES
+#  HI, IM CARLES
 ## I'm a DEVOPS Engineer
 
-![banner](https://s21870.pcdn.co/wp-content/uploads/2016/06/giphy-21.gif)
+![banner](https://s21870.pcdn.co/wp-content/uploads/2016/06/giphy-21.gif) ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/567380?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d)
 
 
 ### PERSONAL PROFILE
