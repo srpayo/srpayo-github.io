@@ -1,33 +1,9 @@
 # HI, IM CARLES
 ## I'm a DEVOPS Engineer 
 
-<!-- display the social media buttons in your README -->
+![banner](devops-banner.jpg)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
-[![alt text][1.1]][1]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.github.com/srpayo
-
-<p align=”center”>
-
-<img width=”200" height=”200" src="https://github.com/srpayo/srpayo.github.io/blob/main/devops-banner.jpg?raw=true" alt=”my banner”>
-
-</p>
 
 
 ### PERSONAL PROFILE
