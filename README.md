@@ -86,29 +86,31 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 
 ### EMPLOYMENT RECORD
+- 12/2016 – 08/2021, Video Systems Engineer at Liberty Global, Amsterdam - The Netherlands
 <details>
   <summary>Click to expand!</summary>
   
-  1. 12/2016 – 08/2021, Video Systems Engineer at Liberty Global, Amsterdam - The Netherlands
-
-  * Duties:
+  `Duties:`
   As part of the Pan-European Video Support team within the CNO organization, my role was to provide advanced support on the Video    solutions of the company such as SetTopBoxes, OTT applications (ios, android, windows) and web apps of all the affiliates on a Pan  European and Latin American level. Working with a variety of tools and platforms my position allowed me to provide End to End   support for all platforms from systems-level to application-level by using multiple technologies and also doing pro-active  monitoring and maintenance by using scripts and API tools.
 
-  * Skills gained:
+  `Skills gained:`
   Strong troubleshooting under extreme pressure situation during live streaming events,
   Video streaming technologies such as configuration and management of encoders, transcoders, metadata management etc,
   awscli and swagger API troubleshooting and management,
   Bitbucket and Jenkins CI/CD workflows,
-  Creating Documentation for the teams and providing training to different teams as well as presenting tools and troubleshooting     guides for different teams within the company affiliates support teams (Chile, Puerto Rico, Romania, Netherlands)
+  Creating Documentation for the teams and providing training to different teams as well as presenting tools and troubleshooting      guides for different teams within the company affiliates support teams (Chile, Puerto Rico, Romania, Netherlands)
+</details>
 
 
 
-  1. 03/2012 – 10/2016, Senior Technical Support Engineer at Alternative Networks Plc, London - United Kingdom
-
-  * Duties:
+- 03/2012 – 10/2016, Senior Technical Support Engineer at Alternative Networks Plc, London - United Kingdom
+<details>
+  <summary>Click to expand!</summary>
+    
+  `Duties:`
   Working in the Technical Operations – Customer Operations Department I provide support dedicated to maintaining service within agreed service levels to Alternative Networks customers 24x7, 365 days per year as part of the Shift Team. I've gained considerable experience working with various troubleshooting and performance tools and proven methodology to identify root causes.
 
-  * Skills gained:
+  `Skills gained:`
   Familiarity with ITILv3, ISO20000 and ISO27000 Industry Standards
   Strong analytical skills in multi-vendor environments
   Strong technical knowledge in multiple disciplines (Microsoft, Citrix, Oracle, UNIX / Linux, Firewalls, LoadBalancers, VMware, Storage)
@@ -124,32 +126,37 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   Extensive support for Network devices (CheckPoint, Juniper, F5, Cisco, Brocade)
   Backups and Restores with Symantec NetBackup, NetApp VSC and snapshots, VEEAM
   Security Patching (using Kaseya and Lumension Patchlink)
+</details>
 
+- 06/2009 – 02/2012, Dedicated Server Engineer at UK2.NET, London - United Kingdom
+<details>
+  <summary>Click to expand!</summary>
 
-  1. 06/2009 – 02/2012, Dedicated Server Engineer at UK2.NET, London - United Kingdom
-
-  * Duties:
+  `Duties:`
   Working in a Datacenter in London, dealing with a broad range of ISP issues, including setting up / giving support for dedicated servers and VPSs (both Virtuozzo and Xen Cloud platforms) mainly linux servers but also Windows 2003 and 2008 servers as well as VMware 4.1 cloud platform. 
   Configuring VPS and licensing / installing control panels (cPanel, Webmin, ISP Manager, Plesk), setting up Firewalls (Cisco PIX, CSF, Pfsense, iptables) ssh troubleshooting. Postfix and Exim mailserver troubleshooting.
   Building new servers (both physically for UK2 customers and remotely via Softlayer portal for Midphase / 10TB customers), setting up network, hostnames, and cabling in the datacenters.
   Setting up and troubleshooting services (Apache, MySQL, PHP, Wordpress, Joomla etc) for customers, making and restoring backups in both VPS platforms, Netvault, migration of VPSs, installing SSL certificates and other DNS related requests.
   Setting up Reverse DNS records, monitoring with Nagios
 
-  * Skills gained:
+  `Skills gained:`
   Extensive Linux experience with the most common server OS (Redhat, Ubuntu, Debian..)
   Vmware, Virtuozzo and Xen Cloud VPS platforms maintenance and setup
   Extensive use of ssh / shell commands, scp, WinSCP, IPMI setup, KVM console.
   Building and maintaining servers in a DC environment.
   Cisco switches and router commands
+</details>
 
 
-  1. 08/2006 – 02/2009, 2nd line Technical Support Technician at HOSTWAY UK, London, United Kingdom
-
-  * Duties:
+ - 08/2006 – 02/2009, 2nd line Technical Support Technician at HOSTWAY UK, London, United Kingdom
+<details>
+  <summary>Click to expand!</summary>
+    
+  `Duties:`
   Working with a broad range of ISP requests from FTP and email client configuration to DNS issues, zonefile management and server-side requirements.
   Windows 2000/2003 Server management, IIS 5 and 6 configuration, Virtual Directories and Applications setup in IIS, FTP configuration, script debugging (html, ASP.NET) and MSSQL database restores and backups, Urchin statistics configuration and management.
 
-  * Skills gained:
+  `Skills gained:`
   Windows Server 2000/2003 administration, MSSQL Administration, Linux admin, Mac support, SQL database, Exchange and Sharepoint, SSL certificates
   Windows server management for dedicated customers in a SLA contract.
 </details>
