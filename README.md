@@ -23,8 +23,11 @@
 
 [1]: http://www.github.com/srpayo
 
+<p align=”center”>
 
-![banner](devops-banner.jpg)
+<img width=”200" height=”200" src=devops-banner.jpg alt=”my banner”>
+
+</p>
 
 
 ### PERSONAL PROFILE
