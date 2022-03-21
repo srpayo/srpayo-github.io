@@ -91,7 +91,12 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 ### PAST EMPLOYMENT RECORD
 - 12/2016 – 08/2021, Video Systems Engineer at Liberty Global \
     Amsterdam - The Netherlands \
-    ![netherlands-48](https://user-images.githubusercontent.com/567380/159275905-49b0e866-b015-4cd7-bd15-8a14e085de59.png) <details>
+    ![netherlands-48](https://user-images.githubusercontent.com/567380/159275905-49b0e866-b015-4cd7-bd15-8a14e085de59.png) 
+    <details>
+<summary><mark><font color=darkred>Click to expand...</font></mark>
+</summary>
+<p>
+```xml
   `Duties:`
   As part of the Pan-European Video Support team within the CNO organization, my role was to provide advanced support on the Video    solutions of the company such as SetTopBoxes, OTT applications (ios, android, windows) and web apps of all the affiliates on a Pan  European and Latin American level. Working with a variety of tools and platforms my position allowed me to provide End to End   support for all platforms from systems-level to application-level by using multiple technologies and also doing pro-active  monitoring and maintenance by using scripts and API tools. \
 
@@ -101,8 +106,10 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   awscli and swagger API troubleshooting and management,
   Bitbucket and Jenkins CI/CD workflows,
   Creating Documentation for the teams and providing training to different teams as well as presenting tools and troubleshooting      guides for different teams within the company affiliates support teams (Chile, Puerto Rico, Romania, Netherlands)
-</details>
-
+ <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+```
+</p>
+    </details>
 
 
 - 03/2012 – 10/2016, Senior Technical Support Engineer at Alternative Networks Plc \
