@@ -62,15 +62,20 @@ AWS Sysops Course at Global Knowledge, Amsterdam
 Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terraform for beginners Course
 
 
-### EMPLOYMENT RECORD
+### LATEST EMPLOYMENT
 
-- 08/2021 - current, Linux Infrastructure Engineer at Textkernel B.V., Amsterdam - The Netherlands
+- 08/2021 - current, Senior Linux Infrastructure Engineer at Textkernel B.V., Amsterdam - The Netherlands
 ```Duties:```
-in progress
+
+
 ```Skills gained:```
 in progress
 
 
+### EMPLOYMENT RECORD
+<details>
+  <summary>Click to expand!</summary>
+  
 - 12/2016 – 08/2021, Video Systems Engineer at Liberty Global, Amsterdam - The Netherlands
 
 ```Duties:```
@@ -140,7 +145,7 @@ Windows 2000/2003 Server management, IIS 5 and 6 configuration, Virtual Director
 ```Skills gained:```
 Windows Server 2000/2003 administration, MSSQL Administration, Linux admin, Mac support, SQL database, Exchange and Sharepoint, SSL certificates
 Windows server management for dedicated customers in a SLA contract.
-
+</details>
 
 
 ### ADDITIONAL INFORMATION
