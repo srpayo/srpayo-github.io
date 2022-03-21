@@ -87,11 +87,11 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
     Zabbix and Grafana monitoring \
     Hands-on experience with network and (distributed) storage technology (e.g. VLANs, RSTP, DNS, Ceph, LVM, NVMe,10/25gbe)
 
-
-### PAST EMPLOYMENT RECORD
 ---
+### PAST EMPLOYMENT RECORD
 <details>
-<summary>click to expand</summary>
+<summary>click to expand...
+</summary>
 	
 - 12/2016 – 08/2021, Video Systems Engineer at Liberty Global \
     Amsterdam - The Netherlands \
