@@ -53,11 +53,11 @@ Fluent in English (university degree in English Studies) and 10+ years living in
 ```
 
 ### EDUCATION
-Bachelor's Degree in English Studies at Universitat Rovira i Virgili, Tarragona, Spain.
-Red Hat RHCE Course at Bickenhall College in Baker Street, London
-VMware VCP5 Course at Magirus IT Training, London
-Solaris 11 Course at Training Square, London
-AWS Sysops Course at Global Knowledge, Amsterdam
+Bachelor's Degree in English Studies at Universitat Rovira i Virgili, Tarragona, Spain \
+Red Hat RHCE Course at Bickenhall College in Baker Street, London \
+VMware VCP5 Course at Magirus IT Training, London \
+Solaris 11 Course at Training Square, London \
+AWS Sysops Course at Global Knowledge, Amsterdam \
 Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terraform for beginners Course
 
 
