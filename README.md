@@ -89,6 +89,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
 
 ### PAST EMPLOYMENT RECORD
+---
 <details>
 <summary>click to expand</summary>
 	
@@ -169,6 +170,8 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   Windows Server 2000/2003 administration, MSSQL Administration, Linux admin, Mac support, SQL database, Exchange and Sharepoint,     SSL certificates
   Windows server management for dedicated customers in a SLA contract
 </details>
+
+---
 
 
 ### ADDITIONAL INFORMATION
