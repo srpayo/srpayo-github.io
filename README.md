@@ -96,10 +96,10 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 
   <summary>click to expand...</summary>
     
-```Duties:```
+`Duties:`
   As part of the Pan-European Video Support team within the CNO organization, my role was to provide advanced support on the Video    solutions of the company such as SetTopBoxes, OTT applications (ios, android, windows) and web apps of all the affiliates on a Pan  European and Latin American level. Working with a variety of tools and platforms my position allowed me to provide End to End   support for all platforms from systems-level to application-level by using multiple technologies and also doing pro-active  monitoring and maintenance by using scripts and API tools. \
 
-```Skills gained:```
+`Skills gained:`
   Strong troubleshooting under extreme pressure situation during live streaming events,
   Video streaming technologies such as configuration and management of encoders, transcoders, metadata management etc,
   awscli and swagger API troubleshooting and management,
