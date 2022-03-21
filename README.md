@@ -109,8 +109,6 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   * Duties:
   Working in the Technical Operations – Customer Operations Department I provide support dedicated to maintaining service within agreed service levels to Alternative Networks customers 24x7, 365 days per year as part of the Shift Team. I've gained considerable experience working with various troubleshooting and performance tools and proven methodology to identify root causes.
 
-  In this position I worked with a broad range of different technologies and vendors, carrying out management and maintenance of customers' physical and virtual data center environments and DR sites as well as monitoring their infrastructure. Acting as an escalation point for colleagues from the first and second line teams via ServiceNow my work usually involved carrying out root cause analysis of BSODs and other server and services issues, network troubleshooting (VPN, firewall logs, DR failovers), Storage and VMware capacity planning and other duties as required. 
-
   * Skills gained:
   Familiarity with ITILv3, ISO20000 and ISO27000 Industry Standards
   Strong analytical skills in multi-vendor environments
