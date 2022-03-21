@@ -1,4 +1,4 @@
-#  HI, IM CARLES ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/567380?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d)
+#  ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/567380?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d) HI, IM CARLES
 ## I'm a DEVOPS Engineer
 
 ![banner](devops-banner.jpg)
