@@ -1,7 +1,5 @@
-<h3 align=”center”>
 #  HI, IM CARLES
-## I'm a DEVOPS Engineer 
-</3>
+## I'm a DEVOPS Engineer
 
 ![banner](devops-banner.jpg)
 
