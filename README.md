@@ -1,7 +1,7 @@
 #  Hi, I'm Carles
 ## I'm a DEVOPS Engineer
 
-![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/567380?v=4&h=280&w=280&fit=cover&mask=circle&maxage=7d) <img src="giph_banner.gif" width="680" height="280" />
+![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/567380?v=4&h=280&w=280&fit=cover&mask=circle&maxage=7d) <img src="giph_banner.gif" width="980" height="280" />
 
 
 ### PERSONAL PROFILE
