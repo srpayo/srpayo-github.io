@@ -144,14 +144,14 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
     London - United Kingdom \
     ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276329-f97aff36-044c-4fa1-b5cd-3dd8c8244797.png)
 
-  `Duties:`
+```Duties:```
   Working in a Datacenter in London, dealing with a broad range of ISP issues, including setting up / giving support for dedicated     servers and VPSs (both Virtuozzo and Xen Cloud platforms) mainly linux servers but also Windows 2003 and 2008 servers as well as     VMware 4.1 cloud platform.
   Configuring VPS and licensing / installing control panels (cPanel, Webmin, ISP Manager, Plesk), setting up Firewalls (Cisco PIX,     CSF, Pfsense, iptables) ssh troubleshooting. Postfix and Exim mailserver troubleshooting
   Building new servers (both physically for UK2 customers and remotely via Softlayer portal for Midphase / 10TB customers), setting   up network, hostnames, and cabling in the datacenters
   Setting up and troubleshooting services (Apache, MySQL, PHP, Wordpress, Joomla etc) for customers, making and restoring backups in   both VPS platforms, Netvault, migration of VPSs, installing SSL certificates and other DNS related requests
   Setting up Reverse DNS records, monitoring with Nagios
 
-  `Skills gained:`
+```Skills gained:```
   Extensive Linux experience with the most common server OS (Redhat, Ubuntu, Debian..)
   Vmware, Virtuozzo and Xen Cloud VPS platforms maintenance and setup
   Extensive use of ssh / shell commands, scp, WinSCP, IPMI setup, KVM console
@@ -164,11 +164,11 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
     London, United Kingdom \
     ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276363-27b56190-63b4-4e26-a0eb-79678593878e.png)
     
-  `Duties:`
+```Duties:```
   Working with a broad range of ISP requests from FTP and email client configuration to DNS issues, zonefile management and server-   side requirements
   Windows 2000/2003 Server management, IIS 5 and 6 configuration, Virtual Directories and Applications setup in IIS, FTP               configuration, script debugging (html, ASP.NET) and MSSQL database restores and backups, Urchin statistics configuration and         management
 
-  `Skills gained:`
+```Skills gained:```
   Windows Server 2000/2003 administration, MSSQL Administration, Linux admin, Mac support, SQL database, Exchange and Sharepoint,     SSL certificates
   Windows server management for dedicated customers in a SLA contract
 	
