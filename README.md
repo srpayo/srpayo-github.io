@@ -96,7 +96,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
     Amsterdam - The Netherlands \
     ![netherlands-48](https://user-images.githubusercontent.com/567380/159275905-49b0e866-b015-4cd7-bd15-8a14e085de59.png)
 	
-  `Duties:`
+```Duties:```
     As part of the Pan-European Video Support team within the CNO organization, my role was to provide advanced support \
     on the Video solutions of the company such as SetTopBoxes, OTT applications (ios, android, windows) and web apps of all \
     the affiliates on a Pan European and Latin American level \
@@ -104,24 +104,23 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
     systems-level to application-level by using multiple technologies and also doing pro-active monitoring and maintenance \
     by using scripts and API tools
 
-  `Skills gained:`
+```Skills gained:```
     Strong troubleshooting under extreme pressure situation during live streaming events \
     Video streaming technologies such as configuration and management of encoders, transcoders, metadata management etc \
     awscli and swagger API troubleshooting and management \
     Bitbucket and Jenkins CI/CD workflows \
     Creating Documentation for the teams and providing training to different teams as well as presenting tools and troubleshooting \     guides for different teams within the company affiliates support teams (Chile, Puerto Rico, Romania, Netherlands)
-</summary>
 
-<summary>click to expand...
+
 	
 - 03/2012 – 10/2016, Senior Technical Support Engineer at Alternative Networks Plc \
     London - United Kingdom \
     ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276136-c501abc0-a17b-4b6e-b46b-4f51a2f374c5.png) 
     
-  `Duties:`
+```Duties:```
   Working in the Technical Operations – Customer Operations Department I provide support dedicated to maintaining service within       agreed service levels to Alternative Networks customers 24x7, 365 days per year as part of the Shift Team. I've gained               considerable experience working with various troubleshooting and performance tools and proven methodology to identify root causes
 
-  `Skills gained:`
+```Skills gained:```
   Familiarity with ITILv3, ISO20000 and ISO27000 Industry Standards
   Strong analytical skills in multi-vendor environments
   Strong technical knowledge in multiple disciplines (Microsoft, Citrix, Oracle, UNIX / Linux, Firewalls, LoadBalancers, VMware,       Storage)
@@ -137,9 +136,8 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   Extensive support for Network devices (CheckPoint, Juniper, F5, Cisco, Brocade)
   Backups and Restores with Symantec NetBackup, NetApp VSC and snapshots, VEEAM
   Security Patching (using Kaseya and Lumension Patchlink)
-</summary>
 
-<summary>click to expand...
+
 	
 - 06/2009 – 02/2012, Dedicated Server Engineer at UK2.NET \
     London - United Kingdom \
@@ -158,9 +156,8 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   Extensive use of ssh / shell commands, scp, WinSCP, IPMI setup, KVM console
   Building and maintaining servers in a DC environment
   Cisco switches and router commands
-</summary>
 
-<summary>click to expand...
+
 		
  - 08/2006 – 02/2009, 2nd line Technical Support Technician at HOSTWAY UK \
     London, United Kingdom \
@@ -173,7 +170,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
   `Skills gained:`
   Windows Server 2000/2003 administration, MSSQL Administration, Linux admin, Mac support, SQL database, Exchange and Sharepoint,     SSL certificates
   Windows server management for dedicated customers in a SLA contract
-</summary>	
+	
 
 </details>
 
