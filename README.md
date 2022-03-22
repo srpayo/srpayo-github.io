@@ -91,6 +91,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
 ### PAST EMPLOYMENT RECORD
 <details>
 <summary>click to expand...
+</summary>
 	
 - 12/2016 – 08/2021, Video Systems Engineer at Liberty Global \
     Amsterdam - The Netherlands \
