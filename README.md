@@ -39,7 +39,7 @@ Load Balancers (Citrix NetScaler, F5, HAProxy),
 Terraform, Terragrunt, Proxmox, Ceph.
 
 Monitoring Tools: SolarWinds, ScienceLogic EM7, Nagios, Cacti, Icinga, ELK Stack: Grafana and Kibana, 
-Spectrum, Dynatrace, Prometheus, Lens.
+Spectrum, Dynatrace, Zabbix, Prometheus, Lens.
 
 CI/CD: Bitbucket, GitHub, GitLab, Jenkins, Ansible, Jira
 API: Swagger, Postman
@@ -49,7 +49,7 @@ Patching and Security Hardening (Kaseya, Lumension Patchlink, iptables)
 
 Translation and Interpretation skills
 Native speaker of Spanish and Catalan
-Fluent in English (university degree in English Studies) and 10+ years living in the UK
+Fluent in English (university degree in English Studies) and 10+ years living in the UK, 5+ years living in The Netherlands
 ```
 
 ### EDUCATION
@@ -76,7 +76,8 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
     Keep a close eye on platform health and take actionas needed \
     Participate in on-call rotation schedule via Pagerduty \
     Watch over documentation and clean-up \
-    Configure and improve the company's SaaS environment based on business and security needs
+    Configure and improve the company's SaaS environment based on business and security needs \
+    Act as Technical Project Coordinator for outsourced work to external companies
 
 
 ```Skills gained:``` \
@@ -86,6 +87,7 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
     Proxmox and KVM virtualization configuration and support \
     Zabbix and Grafana monitoring \
     Hands-on experience with network and (distributed) storage technology (e.g. VLANs, RSTP, DNS, Ceph, LVM, NVMe,10/25gbe)
+    Project Manager for outsourced work
 
 ---
 ### PAST EMPLOYMENT
@@ -168,7 +170,7 @@ London, United Kingdom \
 
 
 ### ADDITIONAL INFORMATION
-Interests:                 Technology, guitar and bass guitar, plant-based food, travelling, art, surfing.
+Interests:                 Technology, guitar and bass guitar, plant-based food, travelling, art, surfing \
                            Currently learning Kubernetes and Terraform
 
 Driving Licence:           Full European
