@@ -73,11 +73,12 @@ Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terr
     Manage and expand the physical servers, OS's and networks in multiple datacenters \
     Support >1200 VMs \
     Operate a complex technical architecture with a high degree of customization \
-    Keep a close eye on platform health and take actionas needed \
+    Keep a close eye on platform health and take action as needed \
     Participate in on-call rotation schedule via Pagerduty \
     Watch over documentation and clean-up \
     Configure and improve the company's SaaS environment based on business and security needs \
-    Act as Technical Project Coordinator for outsourced work to external companies
+    Act as Technical Project Coordinator for outsourced work to external companies \
+    Participate in the IaC design for the company cloud infrastructure
 
 
 ```Skills gained:``` \
@@ -96,16 +97,16 @@ Amsterdam - The Netherlands \
 ![netherlands-48](https://user-images.githubusercontent.com/567380/159275905-49b0e866-b015-4cd7-bd15-8a14e085de59.png)
 	
 	```Duties:```
-    	As part of the Pan-European Video Support team within the CNO organization, my role was to provide advanced support on the Video solutions of the company such as SetTopBoxes, OTT applications (ios, android, windows) and web apps of all the affiliates on a Pan European and Latin American level 
+    	As part of the Pan-European Video Support team within the CNO organization, my role was to provide advanced support on the 	   Video solutions of the company such as SetTopBoxes, OTT applications (ios, android, windows) and web apps of all the 	affiliates on a Pan European and Latin American level 
 	Working with a variety of tools and platforms my position allowed me to provide End to End support for all platforms from
-	systems-level to application-level by using multiple technologies and also doing pro-active monitoring and maintenance by using scripts and API tools
+	systems-level to application-level by using multiple technologies and also doing pro-active monitoring and maintenance by 	  using scripts and API tools
 
 	```Skills gained:```
     	Strong troubleshooting under extreme pressure situation during live streaming events
 	Video streaming technologies such as configuration and management of encoders, transcoders, metadata management etc
     	awscli and swagger API troubleshooting and management
     	Bitbucket and Jenkins CI/CD workflows
-    	Creating Documentation for the teams and providing training to different teams as well as presenting tools and troubleshooting guides for different teams within the company affiliates support teams (Chile, Puerto Rico, Romania, Netherlands)
+    	Creating Documentation for the teams and providing training to different teams as well as presenting tools and 			troubleshooting guides for different teams within the company affiliates support teams (Chile, Puerto Rico, Romania, 		Netherlands)
 
 
 	
@@ -114,7 +115,7 @@ London - United Kingdom \
 ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276136-c501abc0-a17b-4b6e-b46b-4f51a2f374c5.png) 
     
 	```Duties:```
-  	Working in the Technical Operations – Customer Operations Department I provide support dedicated to maintaining service 	within a greed service levels to Alternative Networks customers 24x7, 365 days per year as part of the Shift Team. I've 	gained considerable experience working with various troubleshooting and performance tools and proven methodology to identify 	     root causes
+  	Working in the Technical Operations – Customer Operations Department I provided support dedicated to maintaining service 	 within agreed service levels to Alternative Networks customers 24x7, 365 days per year as part of the Shift Team. I 		gained considerable experience working with various troubleshooting and performance tools and proven methodology to identify 	     root causes
 
 	```Skills gained:```
   	Familiarity with ITILv3, ISO20000 and ISO27000 Industry Standards
@@ -186,9 +187,11 @@ IT Blogs:                  [ChromeOS](https://www.linkedin.com/pulse/chromeos-mu
 
 
 ### CONTACT ME
-<a href="https://www.linkedin.com/in/carlesconstanti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Carles Constanti | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/carlesconstanti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Carles Constanti | LinkedIn" width="21px"/></a> 
+&nbsp;
 
- <a href="https://instagram.com/srpayo"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Carles Constanti | Instagram" width="21px"/></a>
+ <a href="https://instagram.com/srpayo"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Carles Constanti | Instagram" width="21px"/></a> 
+ &nbsp;
 
 
 ![vcard](vcard.jpg)
