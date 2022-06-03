@@ -77,9 +77,9 @@ Terraform for beginners Course
 ### PAST EMPLOYMENT
 - 12/2016 – 08/2021, Video Systems Engineer at Liberty Global \
 Amsterdam - The Netherlands \
-![netherlands-48](https://user-images.githubusercontent.com/567380/159275905-49b0e866-b015-4cd7-bd15-8a14e085de59.png) <details>
+![netherlands-48](https://user-images.githubusercontent.com/567380/159275905-49b0e866-b015-4cd7-bd15-8a14e085de59.png) 
+<details>
 <summary>Click to expand...</summary>
-
 	Duties:
     	As part of the Pan-European Video Support team within the CNO organization, my role was to provide advanced support on the 	   Video solutions of the company such as SetTopBoxes, OTT applications (ios, android, windows) and web apps of all the 	affiliates on a Pan European and Latin American level 
 	Working with a variety of tools and platforms my position allowed me to provide End to End support for all platforms from
@@ -97,14 +97,12 @@ Amsterdam - The Netherlands \
 - 03/2012 – 10/2016, Senior Technical Support Engineer at Alternative Networks Plc \
 London - United Kingdom \
 ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276136-c501abc0-a17b-4b6e-b46b-4f51a2f374c5.png) 
-
 <details>
 <summary>Click to expand...</summary>
-    
-	```Duties:```
+	Duties:
   	Working in the Technical Operations – Customer Operations Department I provided support dedicated to maintaining service 	 within agreed service levels to Alternative Networks customers 24x7, 365 days per year as part of the Shift Team. I 		gained considerable experience working with various troubleshooting and performance tools and proven methodology to identify 	     root causes
 
-	```Skills gained:```
+	Skills gained:
   	Familiarity with ITILv3, ISO20000 and ISO27000 Industry Standards
 	Strong analytical skills in multi-vendor environments
 	Strong technical knowledge in multiple disciplines (Microsoft, Citrix, Oracle, UNIX / Linux, Firewalls, LoadBalancers, 	             VMware, Storage)
@@ -126,18 +124,16 @@ London - United Kingdom \
 - 06/2009 – 02/2012, Dedicated Server Engineer at UK2.NET \
 London - United Kingdom \
 ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276329-f97aff36-044c-4fa1-b5cd-3dd8c8244797.png)
-
 <details>
 <summary>Click to expand...</summary>
-
-	```Duties:```
+	Duties:
 	Working in a Datacenter in London, dealing with a broad range of ISP issues, including setting up / giving support for 		dedicated servers and VPSs (both Virtuozzo and Xen Cloud platforms) mainly linux servers but also Windows 2003 and 2008 	servers as well as VMware 4.1 cloud platform.
 	Configuring VPS and licensing / installing control panels (cPanel, Webmin, ISP Manager, Plesk), setting up Firewalls (Cisco 	    PIX, CSF, Pfsense, iptables) ssh troubleshooting. Postfix and Exim mailserver troubleshooting
 	Building new servers (both physically for UK2 customers and remotely via Softlayer portal for Midphase / 10TB customers), 	  setting up network, hostnames, and cabling in the datacenters
 	Setting up and troubleshooting services (Apache, MySQL, PHP, Wordpress, Joomla etc) for customers, making and restoring 	backups in both VPS platforms, Netvault, migration of VPSs, installing SSL certificates and other DNS related requests
 	Setting up Reverse DNS records, monitoring with Nagios
 
-	```Skills gained:```
+	Skills gained:
 	Extensive Linux experience with the most common server OS (Redhat, Ubuntu, Debian..)
 	Vmware, Virtuozzo and Xen Cloud VPS platforms maintenance and setup
 	Extensive use of ssh / shell commands, scp, WinSCP, IPMI setup, KVM console
@@ -149,15 +145,13 @@ London - United Kingdom \
 - 08/2006 – 02/2009, 2nd line Technical Support Technician at HOSTWAY UK \
 London, United Kingdom \
 ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276363-27b56190-63b4-4e26-a0eb-79678593878e.png)
-
 <details>
 <summary>Click to expand...</summary>
-
-	```Duties:```
+	Duties:
 	Working with a broad range of ISP requests from FTP and email client configuration to DNS issues, zonefile management and 	  server-side requirements
 	Windows 2000/2003 Server management, IIS 5 and 6 configuration, Virtual Directories and Applications setup in IIS, FTP               configuration, script debugging (html, ASP.NET) and MSSQL database restores and backups, Urchin statistics configuration and         management
 
-	```Skills gained:```
+	Skills gained:
 	Windows Server 2000/2003 administration, MSSQL Administration, Linux admin, Mac support, SQL database, Exchange and 		Sharepoint, SSL certificates
 	Windows server management for dedicated customers in a SLA contract
 </details>
