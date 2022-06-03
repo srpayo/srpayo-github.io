@@ -70,7 +70,7 @@ Terraform for beginners Course
     AWS Cloud design and configuration with Terraform and Terragrunt \
     Proxmox and KVM virtualization configuration and support \
     Zabbix and Grafana monitoring \
-    Hands-on experience with network and (distributed) storage technology (e.g. VLANs, RSTP, DNS, Ceph, LVM, NVMe,10/25gbe)
+    Hands-on experience with network and (distributed) storage technology (e.g. VLANs, RSTP, DNS, Ceph, LVM, NVMe,10/25gbe) \
     Project Manager for outsourced work
 
 ---
@@ -102,9 +102,11 @@ London - United Kingdom \
 ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276136-c501abc0-a17b-4b6e-b46b-4f51a2f374c5.png) 
 <details>
 <summary>details</summary>
+	<p>
 	Duties:
   	Working in the Technical Operations – Customer Operations Department I provided support dedicated to maintaining service 	 within agreed service levels to Alternative Networks customers 24x7, 365 days per year as part of the Shift Team. I 		gained considerable experience working with various troubleshooting and performance tools and proven methodology to identify 	     root causes
-
+	</p>
+	<p>
 	Skills gained:
   	Familiarity with ITILv3, ISO20000 and ISO27000 Industry Standards
 	Strong analytical skills in multi-vendor environments
@@ -121,6 +123,7 @@ London - United Kingdom \
 	Extensive support for Network devices (CheckPoint, Juniper, F5, Cisco, Brocade)
 	Backups and Restores with Symantec NetBackup, NetApp VSC and snapshots, VEEAM
 	Security Patching (using Kaseya and Lumension Patchlink)
+	</p>
 </details>
 
 
@@ -129,19 +132,22 @@ London - United Kingdom \
 ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276329-f97aff36-044c-4fa1-b5cd-3dd8c8244797.png)
 <details>
 <summary>details</summary>
+	<p>	
 	Duties:
 	Working in a Datacenter in London, dealing with a broad range of ISP issues, including setting up / giving support for 		dedicated servers and VPSs (both Virtuozzo and Xen Cloud platforms) mainly linux servers but also Windows 2003 and 2008 	servers as well as VMware 4.1 cloud platform.
 	Configuring VPS and licensing / installing control panels (cPanel, Webmin, ISP Manager, Plesk), setting up Firewalls (Cisco 	    PIX, CSF, Pfsense, iptables) ssh troubleshooting. Postfix and Exim mailserver troubleshooting
 	Building new servers (both physically for UK2 customers and remotely via Softlayer portal for Midphase / 10TB customers), 	  setting up network, hostnames, and cabling in the datacenters
 	Setting up and troubleshooting services (Apache, MySQL, PHP, Wordpress, Joomla etc) for customers, making and restoring 	backups in both VPS platforms, Netvault, migration of VPSs, installing SSL certificates and other DNS related requests
 	Setting up Reverse DNS records, monitoring with Nagios
-
+	</p>
+	<p>
 	Skills gained:
 	Extensive Linux experience with the most common server OS (Redhat, Ubuntu, Debian..)
 	Vmware, Virtuozzo and Xen Cloud VPS platforms maintenance and setup
 	Extensive use of ssh / shell commands, scp, WinSCP, IPMI setup, KVM console
 	Building and maintaining servers in a DC environment
 	Cisco switches and router commands
+	</p>
 </details>
 
 
@@ -150,13 +156,16 @@ London, United Kingdom \
 ![icons8-great-britain-48](https://user-images.githubusercontent.com/567380/159276363-27b56190-63b4-4e26-a0eb-79678593878e.png)
 <details>
 <summary>details</summary>
+	<p>	
 	Duties:
 	Working with a broad range of ISP requests from FTP and email client configuration to DNS issues, zonefile management and 	  server-side requirements
 	Windows 2000/2003 Server management, IIS 5 and 6 configuration, Virtual Directories and Applications setup in IIS, FTP               configuration, script debugging (html, ASP.NET) and MSSQL database restores and backups, Urchin statistics configuration and         management
-
+	</p>
+	<p>
 	Skills gained:
 	Windows Server 2000/2003 administration, MSSQL Administration, Linux admin, Mac support, SQL database, Exchange and 		Sharepoint, SSL certificates
 	Windows server management for dedicated customers in a SLA contract
+	</p>
 </details>
 ---
 
