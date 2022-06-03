@@ -32,24 +32,14 @@ Having worked in a range of roles within international companies, I am an extrem
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ```
-Hosting administration, Linux server administration (Redhat, CentOS, Ubuntu, Debian etc), Solaris, 
-Windows Server 2003, 2008 and 2012, TCP/IP Networking, SSL certificates, Vmware, AWS and Kubernetes, 
-Firewall administration (Cisco, CheckPoint, Juniper, pfSense), Storage (NetApp), 
-Load Balancers (Citrix NetScaler, F5, HAProxy), 
-Terraform, Terragrunt, Proxmox, Ceph.
-
-Monitoring Tools: SolarWinds, ScienceLogic EM7, Nagios, Cacti, Icinga, ELK Stack: Grafana and Kibana, 
-Spectrum, Dynatrace, Zabbix, Prometheus, Lens.
-
+Linux server administration
+Virtualization: Vmware, Kubernetes, Proxmox, KVM
+Firewall administration
+Storage administration: NetApp
+Cloud: AWS, Terraform, Terragrunt
+Monitoring
 CI/CD: Bitbucket, GitHub, GitLab, Jenkins, Ansible, Jira
-API: Swagger, Postman
-Scripting: Bash shell and operational-level Python
-Debugging tools: Charles Log Proxy, MitmProxy, Web Developer Tools
-Patching and Security Hardening (Kaseya, Lumension Patchlink, iptables)
-
-Translation and Interpretation skills
-Native speaker of Spanish and Catalan
-Fluent in English (university degree in English Studies) and 10+ years living in the UK, 5+ years living in The Netherlands
+Scripting: Bash shell
 ```
 
 ### EDUCATION
@@ -58,7 +48,9 @@ Red Hat RHCE Course at Bickenhall College in Baker Street, London \
 VMware VCP5 Course at Magirus IT Training, London \
 Solaris 11 Course at Training Square, London \
 AWS Sysops Course at Global Knowledge, Amsterdam \
-Currently enrolled on Udemy's Certified Kubernetes Administrator Course and Terraform for beginners Course
+Systems Operations on AWS at Fast Lane, Amsterdam \
+Udemy's Certified Kubernetes Administrator Course \
+Terraform for beginners Course
 
 
 
