@@ -77,9 +77,8 @@ Terraform for beginners Course
 ### PAST EMPLOYMENT
 - 12/2016 – 08/2021, Video Systems Engineer at Liberty Global \
 Amsterdam - The Netherlands \
-![netherlands-48](https://user-images.githubusercontent.com/567380/159275905-49b0e866-b015-4cd7-bd15-8a14e085de59.png) 
 <details>
-<summary>Click to expand...</summary>
+<summary>![netherlands-48](https://user-images.githubusercontent.com/567380/159275905-49b0e866-b015-4cd7-bd15-8a14e085de59.png)</summary>
 	Duties:
     	As part of the Pan-European Video Support team within the CNO organization, my role was to provide advanced support on the 	   Video solutions of the company such as SetTopBoxes, OTT applications (ios, android, windows) and web apps of all the 	affiliates on a Pan European and Latin American level 
 	Working with a variety of tools and platforms my position allowed me to provide End to End support for all platforms from
