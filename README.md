@@ -31,16 +31,7 @@ Having worked in a range of roles within international companies, I am an extrem
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-```
-Linux server administration
-Virtualization: Vmware, Kubernetes, Proxmox, KVM
-Firewall administration
-Storage administration: NetApp
-Cloud: AWS, Terraform, Terragrunt
-Monitoring
-CI/CD: Bitbucket, GitHub, GitLab, Jenkins, Ansible, Jira
-Scripting: Bash shell
-```
+
 
 ### EDUCATION
 Bachelor's Degree in English Studies at Universitat Rovira i Virgili, Tarragona, Spain \
