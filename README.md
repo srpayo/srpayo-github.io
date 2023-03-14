@@ -41,7 +41,8 @@ Solaris 11 Course at Training Square, London \
 AWS Sysops Course at Global Knowledge, Amsterdam \
 Systems Operations on AWS at Fast Lane, Amsterdam \
 Udemy's Certified Kubernetes Administrator Course \
-Terraform for beginners Course
+Terraform for beginners Course \
+Core Kubernetes Masterclass at EDC4IT, Amsterdam
 
 
 
