@@ -31,7 +31,8 @@ Having worked in a range of roles within international companies, I am an extrem
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
+![AWS]
+![Packer]
 
 ### EDUCATION
 Bachelor's Degree in English Studies at Universitat Rovira i Virgili, Tarragona, Spain \
