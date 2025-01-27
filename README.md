@@ -68,11 +68,14 @@ Core Kubernetes Masterclass at EDC4IT, Amsterdam
 ```Skills gained:``` \
     Configuration Management with Ansible and Gitlab CI \
     Kubernetes on-prem and in-cloud \
-    AWS Cloud design and configuration with Terraform and Terragrunt \
+    AWS Cloud design and configuration with Terraform and Tofu \
     Proxmox and KVM virtualization configuration and support \
     Zabbix and Grafana monitoring \
     Hands-on experience with network and (distributed) storage technology (e.g. VLANs, RSTP, DNS, Ceph, LVM, NVMe,10/25gbe) \
-    Project Manager for outsourced work
+    Project Manager for outsourced work \
+    Datacenter maintenance and capacity planning for growth \
+    Golden Base AMI design and implementation with Packer \
+    Documentation for runbooks and knowledge sharing
 
 ---
 ### PAST EMPLOYMENT
@@ -83,17 +86,21 @@ Amsterdam - The Netherlands \
 <summary>details</summary>
 	<p>
 	Duties:
-    	As part of the Pan-European Video Support team within the CNO organization, my role was to provide advanced support on the 	   Video solutions of the company such as SetTopBoxes, OTT applications (ios, android, windows) and web apps of all the 	affiliates on a Pan European and Latin American level 
-	Working with a variety of tools and platforms my position allowed me to provide End to End support for all platforms from
-	systems-level to application-level by using multiple technologies and also doing pro-active monitoring and maintenance by 	  using scripts and API tools
+    	As part of the Pan-European Video Support team within the CNO organization, my role was to provide advanced support on the \
+	Video solutions of the company such as SetTopBoxes, OTT applications (ios, android, windows) and web apps of all the \
+	affiliates on a Pan European and Latin American level \
+	Working with a variety of tools and platforms my position allowed me to provide End to End support for all platforms from \
+	systems-level to application-level by using multiple technologies and also doing pro-active monitoring and maintenance by \
+	using scripts and API tools
 	</p>
 	<p>
 	Skills gained:
-    	Strong troubleshooting under extreme pressure situation during live streaming events
-	Video streaming technologies such as configuration and management of encoders, transcoders, metadata management etc
-    	awscli and swagger API troubleshooting and management
-    	Bitbucket and Jenkins CI/CD workflows
-    	Creating Documentation for the teams and providing training to different teams as well as presenting tools and 			troubleshooting guides for different teams within the company affiliates support teams (Chile, Puerto Rico, Romania, 		Netherlands)
+    	Strong troubleshooting under extreme pressure situation during live streaming events \
+	Video streaming technologies such as configuration and management of encoders, transcoders, metadata management etc \
+    	awscli and swagger API troubleshooting and management \
+    	Bitbucket and Jenkins CI/CD workflows \
+    	Creating Documentation for the teams \
+	Providing training to different teams as well as presenting tools and troubleshooting guides for different teams within the company affiliates support teams (Chile, Puerto Rico, Romania, 	Netherlands)
 	</p>
 </details>
 
